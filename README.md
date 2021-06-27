@@ -1,6 +1,6 @@
 # Heart_attack_EDA_and_predictive_ML_model
 
-## Predicting Mobile Phone Price Range 
+
 * the dataset was uploaded to kaggle by  Rashik Rahman
 * link to dataset https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 * 13 Features, 303 Samples
